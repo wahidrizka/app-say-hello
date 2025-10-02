@@ -1,2 +1,6 @@
 github.com/wahidrizka/go-say-hello v1.0.0 h1:nrTpXF9QE/OxjAdEhvgzj9C7oiHHymRLkvu7SPQNZZE=
 github.com/wahidrizka/go-say-hello v1.0.0/go.mod h1:BilE94aGXVwwvTpRa+4UrI/lOU4hWld67mpjNmCvM1Y=
+github.com/wahidrizka/go-say-hello v1.5.0 h1:GeYyF3brI8VeYI46jySyP+6HRUOwOopcZBBX8tvPSj8=
+github.com/wahidrizka/go-say-hello v1.5.0/go.mod h1:BilE94aGXVwwvTpRa+4UrI/lOU4hWld67mpjNmCvM1Y=
+github.com/wahidrizka/go-say-hello/v2 v2.0.0 h1:tyfG3wiIa8mxnQygZM4GHpvORuzbslEt+S/2ZzsSL1U=
+github.com/wahidrizka/go-say-hello/v2 v2.0.0/go.mod h1:eTWjBiUVbDIU/qKWf7FaIaSLjlGneVbe6hYoYjDN7FU=
